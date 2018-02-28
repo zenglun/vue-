@@ -35,7 +35,7 @@ module.exports={
             },
             // 解析图片字体用的
             {
-                test: /\.(png|jpg|gif|svg)/,
+                test: /\.(png|jpg|gif|svg|woff|ttf)/,
                 use: [{
                     loader: 'url-loader',
                     options: {
