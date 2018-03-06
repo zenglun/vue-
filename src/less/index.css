@@ -1,0 +1,13 @@
+html {
+  height: 100%;
+}
+html body {
+  height: 100%;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+.el-upload-list__item {
+  height: 30px;
+}
